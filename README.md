@@ -1,4 +1,6 @@
-This section discusses the steps undertaken and the results achieved during the execution of the notebook, which focuses on exploring quantum computing concepts using Qiskit. Each phase of the notebook is elaborated upon, highlighting the methodologies and the outcomes derived.
+Application of quantum-game theory to optimize cloud resource allocation:
+
+These are the steps undertaken and the results achieved during the execution of the notebook, which focuses on exploring quantum computing concepts using Qiskit. Each phase of the notebook is elaborated upon, highlighting the methodologies and the outcomes derived.
 
 1. Environment Setup and Library Installation
 The initial steps in the notebook ensure a properly configured environment for quantum computing. The libraries installed include:
